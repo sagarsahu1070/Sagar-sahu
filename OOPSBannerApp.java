@@ -39,9 +39,5 @@ public class OOPSBannerApp {
         setOPattern();
         setPPattern();
         setSPattern();
-
-        for (int i = 0; i < o.length; i++) {
-            System.out.println(o[i] + "  " + o[i] + "  " + p[i] + "  " + s[i]);
-        }
     }
 }
