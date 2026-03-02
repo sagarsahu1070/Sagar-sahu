@@ -52,10 +52,10 @@ public class OOPSBannerApp {
                 }
             }
             System.out.println(sb.toString());
-        }
-    }
+        }}
 
     public static void main(String[] args) {
+
         HashMap<Character, String[]> charMap = createCharacterMap();
         String message = "OOPS";
         displayBanner(message, charMap);
